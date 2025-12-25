@@ -11,7 +11,7 @@ int main(){
 	int N[S][S],G[15][15]={0},c,d;
 	for(c=0;c<S;c++){
 		for(d=0;d<S;d++){
-			N[c][d]=rand()%257;
+			N[c][d]=rand()%256;
 		}	
 	}
 	//oluþturulan N matrisi yazdýrma
