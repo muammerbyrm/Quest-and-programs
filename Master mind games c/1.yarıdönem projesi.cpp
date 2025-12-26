@@ -91,6 +91,7 @@ int main(){
     return 0;
     }
 }
+	printf("Bilgisayar kazandI!!!!\nRasgele oluþturulan renkler = %.4s\n",Renk2);
 	system("pause");
     return 0;
 }
